@@ -1,0 +1,62 @@
+[
+  {
+    "period": "1920",
+    "title": "Arab Kingdom of Syria",
+    "description": "Flag of the Arab Kingdom of Syria",
+    "image": "assets/flag_01.jpg"
+  },
+  {
+    "period": "1920-1922",
+    "title": "French Mandate (1st)",
+    "description": "Flag of the Mandate of Syria",
+    "image": "assets/flag_02.jpg"
+  },
+  {
+    "period": "1922-1930",
+    "title": "French Mandate (2nd)",
+    "description": "Flag of the Syrian Federation (1922-1925) and the State of Syria (1925-1930)",
+    "image": "assets/flag_03.jpg"
+  },
+  {
+    "period": "1930-1958",
+    "title": "Republic of Syria",
+    "description": "Flag of the First Syrian Republic (1930-1950) and the Second Syrian Republic",
+    "image": "assets/flag_04_06_10.jpg"
+  },
+  {
+    "period": "1958-1961",
+    "title": "United Arab Republic",
+    "description": "Flag of the United Arab Republic",
+    "image": "assets/flag_05_09.jpg"
+  },
+  {
+    "period": "1961-1963",
+    "title": "Restoration of Republic",
+    "description": "Flag of the Syrian Arab Republic",
+    "image": "assets/flag_04_06_10.jpg"
+  },
+  {
+    "period": "1963-1972",
+    "title": "Ba'athist Syria",
+    "description": "Flag of the Syrian Arab Republic",
+    "image": "assets/flag_07.jpg"
+  },
+  {
+    "period": "1972-1980",
+    "title": "Federation of Arab Republics",
+    "description": "Flag of Syria in the Federation of Arab Republics",
+    "image": "assets/flag_08.jpg"
+  },
+  {
+    "period": "1980-2024",
+    "title": "Syrian Arab Republic",
+    "description": "Flag of the Syrian Arab Republic under the Assad family",
+    "image": "assets/flag_05_09.jpg"
+  },
+  {
+    "period": "2024-Present",
+    "title": "Syrian Revolution Flag (Restored)",
+    "description": "Flag of the Syrian Arab Republic (after the fall of the Assad regime)",
+    "image": "assets/flag_04_06_10.jpg"
+  }
+]
